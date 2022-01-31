@@ -32,7 +32,7 @@ The app will contain a database storing a concoction of words that a user can vi
 
 •	Users can log in to our App using Android Studio and gain complete access to our Mini-database of definitions.
 
-•	Users will be required to create an account or sign with an existing account in order to acquire the database and other features this app provides.
+•	Users will be required to create an account or sign with an existing account in order to access the database and other features this app provides.
 
 •	To create a new account, users can simply click on the *'Create Account'* button and follow the on-screen instructions to successfully register themselves. They will need to create a Username and thus a password for that account.
 
