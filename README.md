@@ -1,7 +1,7 @@
 *EECS 1022 Term Project*
 
 
-# Team Name: Inernational hackers
+# Team Name: International Hackers
 
 
 Project Members:
