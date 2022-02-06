@@ -50,6 +50,8 @@ The app will contain a database storing a concoction of words that a user can vi
 
 •	To search for a word, users can straightforwardly type the word they're looking for in the *Search bar* provided and their word will be looked up in the *Database of Definitions*.
 
+•	Each Keyword in the database is hardcoded.
+
 •	If a word is found in the database, information regarding that particular word will be displayed on a display screen. If a word is not found, a response stating that the word hasn't been found will appear.
 
 
