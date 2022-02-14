@@ -6,7 +6,7 @@
 
 Project Members:
 
-o	Ao Jiang, Section M Lab 02, ja2020@my.yorku.ca
+o	Ao Jiang, Section M Lab 04, ja2020@my.yorku.ca
 
 o	Mariia Melnyk, Section M Lab 01, mariia@my.yorku.ca
 
