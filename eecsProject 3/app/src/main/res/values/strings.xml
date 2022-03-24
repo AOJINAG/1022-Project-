@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">eecsProject</string>
+    <string name="loginButton">SIGN IN</string>
+    <string name="registerButton">CREATE ACCOUNT</string>
+    <string name="stockMark">STOCK MARKET</string>
+    <string name="Username" />
+    <string name="loginButton2">SIGN IN</string>
+    <string name="Password" />
+    <string name="Title4Login">ENTER LOGIN DETAILS</string>
+    <string name="Title4Create">CREATE YOUR ACCOUNT</string>
+    <string name="title4Theme">WELCOME... PLEASE SELECT YOUR TOPIC/THEME</string>
+    <string name="Topic1">Human Anatomy</string>
+    <string name="TOPIC2">GEOGRAPHY</string>
+    <string name="TOPIC3">TECHNOLOGY</string>
+    <string name="TOPIC4">METALS</string>
+    <string name="topicRANDOM">RANDOM</string>
+</resources>
