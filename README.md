@@ -44,7 +44,7 @@ The app will contain a database storing a concoction of words that a user can vi
 
 •	Error messages will appear if a field entry is left blank or if inadequate information is stated.
 
-•	The App will be operatable on all major devices on Android Studio with a Minimum SDK Level/Version of Android 5.0 (Lollipop).
+•	The App will be operable on all major devices on Android Studio with a Minimum SDK Level/Version of Android 5.0 (Lollipop).
 
 •	At the home page, users will have the choice to interact with our database to search for a word or access the Stock Market side app.
 
