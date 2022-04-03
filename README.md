@@ -36,7 +36,7 @@ The app will contain a database storing a concoction of words that a user can vi
 
 •	To create a new account, users can simply click on the *'Create Account'* button and follow the on-screen instructions to successfully register themselves. They will need to create a Username and thus a password for that account.
 
-•	A username, between 6 and 30 characters, must be provided, and the password must not include symbols such as *@$%*&*.
+•	A username, between 6 and 30 characters, must be provided and must not include symbols such as *!@$%*&*.
 
 •	Users can also choose to add any additional information that they may want to provide.
 
