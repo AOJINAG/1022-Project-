@@ -40,7 +40,7 @@ The app will contain a database storing a concoction of words that a user can vi
 
 •	Users can also choose to add any additional information that they may want to provide.
 
-•	Existing users can directly access all the App's features by clicking on the *'Sign In'* button followed by entering their credentials.
+•	Existing users can directly access all the App's features by entering their credentials and then clicking on the 'Sign In' button.
 
 •	Error messages will appear if a field entry is left blank or if inadequate information is stated.
 
