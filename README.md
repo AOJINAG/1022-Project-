@@ -20,7 +20,7 @@ o Shunyao Yu, Section O Lab 01, shunyao@my.yorku.ca
 										
 **Project Title: Mini-Database for definitions**
 
-*App name: ~~Cast Around~~ --> Word Hunt*
+*App name: Word Hunt*
 
 
 Our project will be a mobile app that will display information related to a word inputted by a user. 
